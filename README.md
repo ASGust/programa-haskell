@@ -23,12 +23,11 @@ Programa básico desenvolvido em Haskell para fins acadêmicos<br/>
 Esse projeto foi desenvolvido com a tecnologia Haskell.
 
 ## 👩‍💻 Projeto
-
 O programa permite o usuário realizar as seguintes operações:
-      • Adicionar uma nova tarefa à lista;                                  
-      • Remover uma tarefa existente da lista;                                                                                              
-      • Exibir a lista de tarefas;                                           
-      • Sair do programa.
+      1. Adicionar uma nova tarefa à lista;                                  
+      2. Remover uma tarefa existente da lista;                                                                                              
+      3. Exibir a lista de tarefas;                                           
+      4. Sair do programa.
 A lista de tarefas é armazenada em memória durante a execução do programa.
 As tarefas são representadas por um tipo de dados "Tarefa" contendo apenas
 a descrição da tarefa.
@@ -36,7 +35,6 @@ a descrição da tarefa.
 operações desejadas.
 O programa trata entradas inválidas e fornecer feedback adequado ao 
 usuário.
-----------------------------------------------------------------------------
 
 ## 🖥 Layout
 
